@@ -1,0 +1,9 @@
+# Service gitignore
+
+# Build
+target
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
